@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anirizzz
 - 👀 I’m interested in learning data science.
-- 🌱 I’m currently learning c++ and python.
+- 🌱 I’m currently learning c++,python and java.
 - 💞️ I’m looking to collaborate on anything related to python, c++ or data science.
 - 📫 You can reach me on my Instagram profile- anirizzzz.
